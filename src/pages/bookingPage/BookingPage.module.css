@@ -1,0 +1,12 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.date__container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+  

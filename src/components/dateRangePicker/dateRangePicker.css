@@ -1,0 +1,16 @@
+.rdrDefinedRangesWrapper {
+    background-color:  #EFF2F6 !important; 
+    border-radius: 8px;
+    padding: 10px;
+}
+  
+.rdrStaticRangeLabel {
+    color: #333 !important; 
+    border-radius: 100px;
+}
+  
+.rdrStaticRange:hover {
+    background-color: #979a9c !important; 
+    border-radius: 100px;
+}
+  
